@@ -1,0 +1,4 @@
+.env
+node_modules/
+src/assets/css/*.map
+src/assets/css/main.css
